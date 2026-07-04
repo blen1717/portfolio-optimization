@@ -4,7 +4,7 @@
 This repository contains our progress for the interim submission of the 10 Academy Week 9 challenge.  
 We have completed Task 1 (full EDA, stationarity testing, risk metrics) and Task 2 (ARIMA modelling on TSLA).  
 
-All code is contained in the Jupyter notebook Week9_Interim.ipynb, which runs in Google Colab.
+All code is contained in the Jupyter notebook Week9_Interim.ipynb, which runs in Google Colab.  
 
 ---
 
