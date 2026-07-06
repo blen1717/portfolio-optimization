@@ -1,45 +1,19 @@
-# Python
 pycache/
 *.pyc
 *.pyo
 *.pyd
-.Python
 env/
 venv/
 .venv/
-pip-log.txt
-pip-delete-this-directory.txt
 .pytest_cache/
 .coverage
-.tox
-.mypy_cache/
-.dmypy.json
-dmypy.json
-
-# Jupyter Notebook
 .ipynb_checkpoints/
-*.ipynb_checkpoints
-
-# Data files (optional – if data is large, you may keep them)
-# *.csv
-# *.parquet
-
-# Colab
-sample_data/
-
-# OS junk
 .DS_Store
-Thumbs.db
-
-# IDE
 .vscode/
 .idea/
-*.swp
-*.swo
-
-# TensorFlow
-*.ckpt
-*.pb
-*.meta
-*.index
-*.data-00000-of-00001
+*.csv
+*.parquet
+*.pkl
+.env
+*.token
+*.key
