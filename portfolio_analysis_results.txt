@@ -1,0 +1,24 @@
+============================================================
+📊 PORTFOLIO OPTIMIZATION - ANALYSIS RESULTS
+============================================================
+
+Stock Statistics:
+      Mean Return (%)   Risk (%)  Sharpe Ratio
+TSLA        47.953670  57.760379      0.830217
+BND          2.031030   5.364300      0.378620
+SPY         14.291329  17.794085      0.803151
+
+Correlation Matrix:
+Ticker    BND    SPY   TSLA
+Ticker                     
+BND     1.000  0.106  0.054
+SPY     0.106  1.000  0.490
+TSLA    0.054  0.490  1.000
+
+Optimal Portfolio (Max Sharpe Ratio):
+  TSLA: 59.8%
+  SPY: 10.6%
+  BND: 29.6%
+  Annual Return: 10.53%
+  Annual Risk: 10.63%
+  Sharpe Ratio: 0.991
